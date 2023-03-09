@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_01" />
+    <string name="title_01" />
+    <string name="title01">Register</string>
+    <string name="title01">Register</string>
+    <string name="titles01">Register</string>
+    <string name="text02">email</string>
+    <string name="text03">phoneNumber</string>
+    <string name="text04">password</string>
+    <string name="text05">retypePassword</string>
+</resources>
